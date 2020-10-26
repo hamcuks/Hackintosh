@@ -41,7 +41,8 @@
 | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ |
 | Asus A43SJ                        | [link](https://github.com/badruzeus/Hackintosh-Asus-A43SJ)   | [link](https://github.com/badruzeus/Hackintosh-Asus-A43SJ/blob/master/README.md) | Asus A43SJ                                       |
 | Asus A411UF                       | [link](https://github.com/faizauthar12/Asus_A411UF_Hackintosh) |                                                              |                                                  |
-| Asus A442UF                       | [link](https://github.com/ryansat/Hackintosh-A442UF)         |                                                              |                                                  |
+| Asus A442UF                       | [link](https://github.com/ryansat/Hackintosh-A442UF)         | 
+| Asus A442URR                       | [link](https://github.com/hamcuks/hackintosh-x442urr)         |                                                            | Asus Vivobook A442UR/A442URR/X442UR/X442URR                                                  |
 | Asus A455LA                       | [link](https://github.com/brilliantedgar/Hackintosh-A455LA-Intel-Core-i3-5005U) | [link](https://github.com/brilliantedgar/Hackintosh-A455LA-Intel-Core-i3-5005U/blob/master/README.md) | Asus S455LA                                      |
 | Asus A455LF-WX039D Series         | [link](https://github.com/asepms92/Hackintosh-Asus-A455LF-Notebook) |                                                              |                                                  |
 | Asus A456UF(X456UF)               | [link](https://github.com/alfinauzikri/Asus-A456UF-Hackintosh) |                                                              |                                                  |
